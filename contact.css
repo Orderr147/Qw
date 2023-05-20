@@ -1,0 +1,140 @@
+@import url("./nav.css");
+@import url("./footer.css");
+/*About Us and Contact Us*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Spartan', sans-serif;
+    /* border:3px solid red !important ;  */
+    border: none;
+    outline: none;
+}
+
+body {
+    width: 100%;
+}
+
+@media (max-width :500px){
+    .contact span{
+    font-size: 2.7vw;
+     }
+     .contact li{
+        font-size:2.7vw;
+    }
+    #contact-head p
+    {
+        color:white !important;
+        font-size:2.6vw;   
+    }
+    #contact-head h1{
+        font-size: 5vw;
+    }
+    .Form_container{
+        font-size: 2vw;
+    }
+}
+@media (min-width :501px)
+{
+    .contact span{
+    font-size: 1.5vw;
+    }
+    .contact li{
+        font-size:1.5vw;
+    }
+    #contact-head p
+    {
+        color:white !important;
+        font-size:2vw;
+        
+    }
+    #contact-head h1{
+        font-size: 4vw;
+    }
+    .Form_container{
+        font-size: 1.3vw;
+    }
+}
+
+#contact-head{
+    background-image: url("../images/about/banner.png");
+    height: 50vh;
+    width: 100%;
+    color:#d1b761;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#contact-head h1{
+    color:#d1b761;
+    font-weight: 700;
+    /* font-size: 4vw; */
+}
+#contact-head p
+{
+    color:white !important;
+    /* font-size:3vw; */
+    
+}
+
+
+.div1 {
+    width: 0px;
+    height: 15vh;
+    background-image: linear-gradient(to left,#343d52,#084365 ,#353e54);
+    position: relative;
+    animation-name: example;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+  }
+  
+  @keyframes example {
+    0%   {}
+    25%  {width: 25%;}
+    50%  { width: 100%;}
+    75%  { width: 100%;}
+    100% { width: 100%;}
+  }
+
+.contact div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contact h1{
+    font-weight: 700;
+    font-size: 3vw;
+    color: black;
+}
+
+.contact li{
+    list-style: none;
+    display: flex;
+    padding: 1vh;
+    /* font-size:2.5vw; */
+    font-weight: 300;
+}
+.contact li i{
+    padding-right: 4%;
+}
+.Form_container{
+    display: flex;
+    flex-direction: column;
+    padding: 3%;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.2);
+}
+.Form_details input, textarea{
+    width: 100%;
+    margin: 1%;
+    padding: 1.5%;
+    outline: none;
+    border: 1px solid #e1e1e1;
+    /* font-size: 2vw; */
+}
+.Form_details button{
+    background-color: #088178;
+    color: #fff;
+    width: 13vw;
+    font-size: 2.4vw;
+}
