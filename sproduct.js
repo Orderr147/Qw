@@ -94,8 +94,7 @@ function added()
 }
 
  btn.onclick = function () {
-  if(localStorage.getItem("username"))
-  {
+  
   if(iid.value!=="")
   {
     addmyitemToArray(iid.value); // Add myitem To Array Of myitems
