@@ -45,7 +45,7 @@ let products = [
     {   product_id:5,
       product_name: "Nail polish",
       product_img: "./Fgb.jpg",
-     product_img: "./Hu.jpg",
+     product_img1: "./Hu.jpg",
       description:``,
       category: "bottomwear",
       price: "25",
