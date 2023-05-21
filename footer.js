@@ -6,10 +6,9 @@ let footerContent=
         <!-- <img class="logo" src="images/logo.png" alt="logo" /> -->
         <h4>Contact</h4>
         <p>
-          <strong>Address:</strong> An Nadi Al Ahli, Nasr City, Cairo
-          Governorate 4472001,cairo.Egypt
+          <strong>Address:</strong> Egypt 
         </p>
-        <p><strong>Phone:</strong> 16061</p>
+        <p><strong>Phone:</strong> 01003503322</p>
         <p><strong>Hours:</strong> 10:00 - 18:00</p>
         <div class="follow">
           <h4>Follow Us</h4>
@@ -39,13 +38,8 @@ let footerContent=
         <a href="#">Help</a>
       </div>
       <div class="col install footer_install">
-        <h4>Install App</h4>
-        <p>From App Store or google play</p>
         <div class="col1">
-          <img src="images/pay.png" alt="" />
-          <img src="images/play.png" alt="" />
-          <p>Secured paymeny Gateways</p>
-          <img src="images/app.png" />
+          
         </div>
       </div>
     </footer>
