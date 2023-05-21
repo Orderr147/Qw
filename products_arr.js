@@ -52,15 +52,14 @@ let products = [
       price: "25",
     },
     {   product_id:6,
-      product_name: "",
-      product_img: "images/p/p41.jpg",
-      product_img1: "images/p/p42.jpg",
-      description:`Slim Fit Men's Jogger Sweatpants 
-      Zipper pocket
-      Waist with elastic and adjustable drawstring`,
+      product_name: "Nail polish",
+      product_img: " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59qRAKK8JFkacz2EnEvDozzLsDUiELSx46w&usqp=CAU  ",
+      product_img1: "./Hu.jpg",
+     product_img2: "./Ghj.jpg",
+      description:``,
 
       category: "bottomwear",
-      price: " ",
+      price: " 25",
     },
 
     {   product_id:7,
