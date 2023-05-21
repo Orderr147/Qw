@@ -19,7 +19,7 @@ body {
 
 /* Home Page */
 #hero {
-    background-image: url("../images/1.png");
+    background-image: url("   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZiUa-hr2jb2lOSr2zR7FQ8JzUxVU3pjqjg&usqp=CAU  ");
     height: 50vh;
     width: 100%;
     padding: 4% 3%;
@@ -88,7 +88,7 @@ color: white;
     margin: 1%;
 }
 #sm-banner .banner-box2{
-    background-image:url("../images/b10.png");
+    background-image:url("  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-WUR4zqKzb57m-bo5b-JTifg9QEohnB4mGQ&usqp=CAU    ");
 }
 /* @media (max-width :500px){
     h1 {
