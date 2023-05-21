@@ -1,7 +1,7 @@
 var pro_container=document.getElementsByClassName("pro-container")[0];
 var product=
 `<div class="pro">
-<img src="images/products/p2.png" alt="product img" />
+<img src="./Fff.jpg" alt="product img" />
 <div class="des">
   <h5>SUN-DVTH-002</h5>
   <div class="star">
