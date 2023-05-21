@@ -124,16 +124,14 @@ let products = [
       },
 
     {   product_id:13,
-        product_name: " ",
-        product_img: "images/p/p53.jpg",
-        product_img1: "images/p/p54.jpg",
-        product_img2: "images/p/p51.jpg",
-        product_img3: "images/p/p52.jpg",
-        description:`Waistband
-        Front double pocket
-        made of stamp fabric`,
+        product_name: " Nail polish",
+        product_img: "  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyVPk_hz8fLqeq-Iu-ymH72N1JrslR3UpIdA&usqp=CAU  ",
+        product_img1: "./Cvbhh.jpg",
+        product_img2: "./Y.jpg",
+        product_img3: "./Hjjiii.jpg",
+        description:``,
         category: "jacket",
-        price: " ",
+        price: " 25",
     },
     {   product_id:14,
       product_name: "",
