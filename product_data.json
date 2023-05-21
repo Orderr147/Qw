@@ -1,7 +1,11 @@
  [
     {
       "product_name": "nail polish",
+     "product_img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3kpJQMrqvl063ppUXuYIFZufAnbTuDrXePQ&usqp=CAU  ",
       "product_img": "./Hjjiii.jpg",
+     "product_img": "./Hu.jpg",
+     "product_img": "./Dccvf.jpg",
+     "product_img": "  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRztae0vEdBkPJJL6sKV-Ur0gS0CGM50mi1yA&usqp=CAU ",
       "category": " Nail polish",
       "price": "25 EGP"
     },
