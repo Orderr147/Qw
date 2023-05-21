@@ -1,6 +1,6 @@
 let products = [
     { product_id:1,
-      product_name: "",
+      product_name: "nail polish",
       product_img: "  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTt401he1KjfYROoW3VCH_wcnGZK_8Wems9g&usqp=CAU  ",
       product_img1: "./Vbby.jpg",
       product_img2: "./Nn.jpg",
@@ -10,7 +10,7 @@ let products = [
       price: "25",
     },
     {   product_id:2,
-      product_name: "",
+      product_name: "Nail polish",
       product_img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZNRM0XpYExzicCiFGkD0AAkU61ASFT5UEw&usqp=CAU  ",
       product_img1: "./Wed.jpg",
       product_img2: "./Ggbnnj.jpg",
@@ -20,17 +20,17 @@ let products = [
       price: "25",
     },
     {   product_id:3,
-      product_name: "",
-      product_img: "images/p/p13.jpg",
-      product_img1: "images/p/p14.jpg",
-      product_img2: "images/p/p11.jpg",
-      product_img3: "images/p/p12.jpg",
-      description:`Regular Fit Long Sleeve Oxford Men's Shirt
+      product_name: "Nail polish",
+      product_img: " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61Jd2Aa-6F-sxlgPAWJ4ylGZm_S_kAQIUGw&usqp=CAU  ",
+      product_img1: "./Gbhh.jpg",
+      product_img2: "./Rr.jpg",
+      product_img3: "./Ggbnnj.jpg",
+      description:`
       Button collar
       Oxford fabric
       One chest pocket`,
       category: "topwear",
-      price: " ",
+      price: "25 ",
     },
     {   product_id:4,
       product_name: "",
