@@ -1,10 +1,12 @@
 let products = [
     { product_id:1,
       product_name: "nail polish",
+     product_img: "  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdHOw9ilPTVIMK4wctvvJRAUN78jhlCmSQXA&usqp=CAU  ",
       product_img: "./Ii.jpg",
       product_img1: "./Nn.jpg",
       product_img2: "./Yy.jpg",
       product_img3: "./Hu.jpg",
+     product_img3: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9ZNRM0XpYExzicCiFGkD0AAkU61ASFT5UEw&usqp=CAU  ",
       description:". .",
       category: "topwear",
       price: "25 pound ",
