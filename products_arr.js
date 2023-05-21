@@ -112,16 +112,15 @@ let products = [
       },
 
     {   product_id:12,
-        product_name: "",
-        product_img: "images/p/p71.jpg",
-        product_img1: "images/p/p72.jpg",
-        product_img2: "images/p/p73.jpg",
-        product_img3: "images/p/p74.jpg",
+        product_name: "Nail polish",
+        product_img: " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHgnZDhRFh5VI5HGsg9U7JUuiT4wwEphn0qw&usqp=CAU ",
+        product_img1: "./09i.jpg",
+        product_img2: "./Ws.jpg",
+        product_img3: "./Ghhnjj.jpg",
 
-        description:`Crew Neck Regular Long Sleeve Women's Tricot Sweater
-        Ribbed ankles and bottom`,
+        description:``,
         category: "topwear",
-        price: "",
+        price: "25",
       },
 
     {   product_id:13,
