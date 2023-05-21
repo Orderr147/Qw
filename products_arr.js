@@ -2,7 +2,7 @@ let products = [
     { product_id:1,
       product_name: "",
       product_img: "  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTt401he1KjfYROoW3VCH_wcnGZK_8Wems9g&usqp=CAU  ",
-      product_img1: "./Dcf.jpg",
+      product_img1: "./Vbby.jpg",
       product_img2: "./Nn.jpg",
       product_img3: "./li.jpg",
       description:"Nail polish.",
