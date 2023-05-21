@@ -56,6 +56,7 @@ let products = [
       product_img: " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT59qRAKK8JFkacz2EnEvDozzLsDUiELSx46w&usqp=CAU  ",
       product_img1: "./Hu.jpg",
      product_img2: "./Ghj.jpg",
+     product_img2: "./Rgg.jpg",
       description:``,
 
       category: "bottomwear",
@@ -63,15 +64,15 @@ let products = [
     },
 
     {   product_id:7,
-        product_name: "",
-        product_img: "images/p/p61.jpg",
-        product_img1: "images/p/p62.jpg",
-        product_img2: "images/p/p63.jpg",
-        product_img3: "images/p/p64.jpg",
-        description:`Shirt Collar Straight Long Sleeve Women's Tunic
-        wonderful flower pant`,
+        product_name: "Nail polish",
+        product_img: "  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoQet5rH729NoPvSTf2hPxSDXfuR1Z7lsCg&usqp=CAU ",
+        product_img1: "./Y.jpg",
+        product_img2: "./Lk.jpg",
+        product_img3: "./Hjygj.jpg",
+        description:`
+        `,
         category: "topwear",
-        price: "",
+        price: "25",
       },
     {   product_id:8,
       product_name: "",
