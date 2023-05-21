@@ -46,6 +46,7 @@ let products = [
       product_name: "Nail polish",
       product_img: "./Fgb.jpg",
      product_img1: "./Hu.jpg",
+     product_img2: "  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC7HR61jN4S0Hqe1EApaHYp9UfRAcaK2bfjg&usqp=CAU  ",
       description:``,
       category: "bottomwear",
       price: "25",
