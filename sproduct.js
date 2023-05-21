@@ -20,12 +20,12 @@ var details=`<h6 class="text-black-50">Home / ${products[index].product_name}</h
 <h3 class="fw-bold py-4">${products[index].product_name}</h3>
 <h2 class="fw-bold">$${products[index].price}EGP</h2>
 <select name="size" class="mt-3 mb-3 size">
-  <option >Select Size</option>
-  <option value="XXL">XXL</option>
-  <option value="XL">XL</option>
-  <option value="L">L</option>
-  <option value="XS">XS</option>
-  <option value="S">S</option>
+  <option >Select quantity</option>
+  <option value="6">6</option>
+  <option value="12">12</option>
+  <option value="18">18</option>
+  <option value="24">24</option>
+  <option value="4">4</option>
 </select>
 <input id="count" type="number" value="1" min="1" />
 <button id="btnCard"class="buy-btn bg-black text-light px-4 py-2">
@@ -58,7 +58,7 @@ var btn=document.getElementById("btnCard");
 var iid=document.getElementById("item_id");
 // var size=document.getElementById("size");
 var count=document.getElementById("count");
-var size="XL";
+var size="12";
   $("select.size").change(function() {
     size = $(this).children("option:selected").val();
   });
