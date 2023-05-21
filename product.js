@@ -11,7 +11,7 @@ var product=
     <i class="bi bi-star-fill"></i>
     <i class="bi bi-star"></i>
   </div>
-  <h4>700 EGP</h4>
+  <h4>25 EGP</h4>
 </div>
 <a href="#"><i class="bi bi-cart fs-3"></i></i></a>
 </div>`
