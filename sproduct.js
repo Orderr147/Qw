@@ -89,7 +89,7 @@ function addDataToLocalStorageFrom(itemm) {
 
 function added()
 {
-  swal("<p>Added to your cart</p>"+"<img src= 'images/cart.png'style = 'height:20vh';> ");
+  swal("<p>Added to your cart</p>"+"<img src= ' https://raw.githubusercontent.com/NadaAlaaEldeen/E-Commerce/main/images/cart.jpg   'style = 'height:20vh';> ");
     
 }
 
@@ -110,7 +110,7 @@ swal({   title: "You can't go to cart page without login!",
 text: "",   
 type: "warning",      
 confirmButtonColor: "gray",   
-confirmButtonText: "<a style='text-decoration:none;font-size:1.5vw;color:white' href ='login.html'> Log </a>",   
+confirmButtonText: "<a style='text-decoration:none;font-size:1.5vw;color:white' href ='./login.html'> Log </a>",   
 closeOnConfirm: false,   
 closeOnCancel: false } 
         );
