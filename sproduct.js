@@ -104,15 +104,5 @@ function added()
 
   }
   }
-else
-{    
-swal({   title: "You can't go to cart page without login!",   
-text: "",   
-type: "warning",      
-confirmButtonColor: "gray",   
-confirmButtonText: "<a style='text-decoration:none;font-size:1.5vw;color:white' href ='./login.html'> Log </a>",   
-closeOnConfirm: false,   
-closeOnCancel: false } 
-        );
-}
+
 }
